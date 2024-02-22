@@ -1,7 +1,7 @@
 function makeSound(key) {
   switch (key) {
     case "w":
-      let crash = new Audio("../sounds/crash.mp3");
+      let crash = new Audio("../../sounds/crash.mp3");
       crash.play();
       break;
     case "a":
