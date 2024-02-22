@@ -17,7 +17,7 @@ footer {
 }
 
 .w {
-background-image: url(https://github.com/OmarMohammed000/Drums/blob/main/images/crash.png?raw=true);
+background-image: url(images/crash.png);
 }
 
 .a {
@@ -25,23 +25,23 @@ background-image: url(https://github.com/OmarMohammed000/Drums/blob/main/images/
 }
 
 .s {
-  background-image: url(../images/tom2.png);
+  background-image: url(images/tom2.png);
 }
 
 .d {
-  background-image: url(../images/tom3.png);
+  background-image: url(images/tom3.png);
 }
 
 .j {
-  background-image: url(../images/tom4.png);
+  background-image: url(images/tom4.png);
 }
 
 .k {
-  background-image: url(../images/kick.png);
+  background-image: url(images/kick.png);
 }
 
 .l {
-  background-image: url(../images/snare.png);
+  background-image: url(images/snare.png);
 }
 
 .set {
